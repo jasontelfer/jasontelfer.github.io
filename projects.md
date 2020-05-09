@@ -4,8 +4,10 @@ title: Projects
 permalink: /projects/
 ---
 # jasont.dev
-This page was originally hosted on an EC2 instance but has recently been
-migrated to a serverless setup using AWS Amplify. Build and deployment
-is completely automated: when changes are pushed to the master branch,
-Amplify performs the Jekyll build and then deploy the resulting static
-website.
+This site is constructed using Jekyll with a complete CI/CD pipeline and 
+hosting on AWS Amplify.
+
+# easytiger
+Easytiger is a stand-alone, JWT-based authorisation microservice. With 
+minimal configuration, easytiger can be used by web applications to handle 
+user registration and authorization.
