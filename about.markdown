@@ -19,3 +19,10 @@ I am comfortable working with:
 
 My focus is on web application development and will be expanding my skillset to include
 JavaScript for front and back-end development.
+
+# Interests
+- Minimalism
+- Grappling arts
+- Woodwork
+- Running
+- Southern Gothic literature
