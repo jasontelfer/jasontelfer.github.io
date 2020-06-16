@@ -4,7 +4,7 @@ title: "Still static and serverless with Github Pages"
 ---
 # Why move?
 I'm now using Github Pages to host this site. Performance on Amplify
-was too slow, builds were even slowed. Github Pages allows for a near
+was too slow, builds were even slower. Github Pages allows for a near
 identical workflow, but without the aforementioned issues.
 
 The transition was very smooth. All that needed to be done was:
