@@ -2,7 +2,6 @@
 layout: page
 title: Units
 permalink: /units/
-exclude: true
 ---
 # Potential Properties
 
