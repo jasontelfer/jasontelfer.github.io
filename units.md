@@ -1,3 +1,9 @@
+---
+layout: page
+title: Units
+permalink: /units/
+exclude: true
+---
 # Potential Properties
 
 ## 4/15 Wellington St, Coorparoo
