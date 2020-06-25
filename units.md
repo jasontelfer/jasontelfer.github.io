@@ -9,7 +9,7 @@ permalink: /units/
 
 - Open Sat 27th @ 10:15AM
 
-- [www.realestate.com.au/property-unit-qld-coorparoo-133857458](https://www.realestate.com.au/property•unit-qld-coorparoo-133857458)
+- [www.realestate.com.au/property-unit-qld-coorparoo-133857458](https://www.realestate.com.au/property-unit-qld-coorparoo-133857458)
 
 ## 6/6 Nicklin St, Coorparoo
 
