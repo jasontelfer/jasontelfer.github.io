@@ -4,25 +4,22 @@ title: About
 permalink: /about/
 ---
 I am an aspiring web developer located in Brisbane, Australia. I have long had a passion 
-for computing and the web so I have decided to turn that into a career.
+for computing and the web and would love to turn that into a career.
 
 # Skills
 I am comfortable working with:
 - Java EE
 - Spring Boot
 - JPA
-- SQL
-- Docker
 - Linux
 - Git
+- HTML
 - Bootstrap
 
-My focus is on web application development and will be expanding my skillset to include
-JavaScript for front and back-end development.
+My current focus is on learning front-end development with vue.js
 
 # Interests
 - Minimalism
-- Grappling arts
+- Grappling 
 - Woodwork
 - Running
-- Southern Gothic literature
